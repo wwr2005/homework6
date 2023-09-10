@@ -69,6 +69,6 @@ public class Main {
         for (int multiplicationTable = 1; multiplicationTable <= 10; multiplicationTable++){
             System.out.println("2 x " + multiplicationTable + " = " + 2 * multiplicationTable);
         }
-
+        System.out.println("конец");
     }
 }
