@@ -56,7 +56,7 @@ public class Main {
         System.out.println();
 
         System.out.println("Задача №9");
-       Total = 0;
+        Total = 0;
         double  percent = 1 / 100D;
         for (int month = 1; month <= 12; month++){
             Total += savings;
@@ -69,6 +69,6 @@ public class Main {
         for (int multiplicationTable = 1; multiplicationTable <= 10; multiplicationTable++){
             System.out.println("2 x " + multiplicationTable + " = " + 2 * multiplicationTable);
         }
-
+        System.out.println("конец");
     }
 }
